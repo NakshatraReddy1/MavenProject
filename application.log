@@ -1,0 +1,28 @@
+2022-08-17 21:52:03,715 DEBUG [main] LosExa:17 - set up gecho
+2022-08-17 21:52:43,007 DEBUG [main] LosExa:17 - set up gecho
+2022-08-17 21:54:26,174 DEBUG [main] LosExa:17 - set up gecho
+2022-08-17 21:55:00,568 DEBUG [main] LosExa:17 - set up gecho
+2022-08-17 21:57:47,947 DEBUG [main] LosExa:17 - set up gecho
+2022-08-17 21:57:47,951  INFO [main] LosExa:18 - open browser
+2022-08-17 21:57:47,951 DEBUG [main] LosExa:19 - set up gecho
+2022-08-17 21:57:47,952  INFO [main] LosExa:20 - open browser
+2022-08-17 21:57:47,952 DEBUG [main] LosExa:21 - set up gecho
+2022-08-17 21:57:47,953 ERROR [main] LosExa:22 - error browser
+2022-08-17 21:57:47,953 DEBUG [main] LosExa:23 - set up gecho
+2022-08-17 21:57:47,954  INFO [main] LosExa:24 - open browser
+2022-08-17 21:57:47,954 DEBUG [main] LosExa:25 - set up gecho
+2022-08-17 21:57:47,954  WARN [main] LosExa:26 - ward browser
+2022-08-17 21:57:47,955 FATAL [main] LosExa:27 - fatal up gecho
+2022-08-17 21:57:47,955  INFO [main] LosExa:28 - open browser
+2022-08-18 14:22:10,849 DEBUG [main] LosExa:17 - set up gecho
+2022-08-18 14:22:10,857  INFO [main] LosExa:18 - open browser
+2022-08-18 14:22:10,857 DEBUG [main] LosExa:19 - set up gecho
+2022-08-18 14:22:10,857  INFO [main] LosExa:20 - open browser
+2022-08-18 14:22:10,858 DEBUG [main] LosExa:21 - set up gecho
+2022-08-18 14:22:10,859 ERROR [main] LosExa:22 - error browser
+2022-08-18 14:22:10,859 DEBUG [main] LosExa:23 - set up gecho
+2022-08-18 14:22:10,860  INFO [main] LosExa:24 - open browser
+2022-08-18 14:22:10,861 DEBUG [main] LosExa:25 - set up gecho
+2022-08-18 14:22:10,861  WARN [main] LosExa:26 - ward browser
+2022-08-18 14:22:10,861 FATAL [main] LosExa:27 - fatal up gecho
+2022-08-18 14:22:10,861  INFO [main] LosExa:28 - open browser
