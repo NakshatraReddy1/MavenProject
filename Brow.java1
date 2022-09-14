@@ -1,0 +1,19 @@
+package Pack;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class Brow {
+
+	public static void main(String[] args) throws InterruptedException {
+		System.setProperty("webdriver.gecko.driver", "./Driver/geckodriver.exe");
+		FirefoxDriver driver;
+driver=new FirefoxDriver(); 
+		driver.get("https://opensource-demo.orangehrmlive.com");
+		driver.manage().window().maximize();
+		
+		
+		
+		
+	
+	}}
